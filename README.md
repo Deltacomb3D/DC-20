@@ -1,2 +1,3 @@
-# DC-20---DELTACOMB
-Deltacomb 3D printer
+# Deltacomb
+
+![Deltacomb Logo](/mdimages/DC-02-Images-Kitchen-ISO.jpg)
